@@ -36,6 +36,12 @@
 🚀 Deployment via [Netlify](https://onkar-dhingra-daily-dispatch.netlify.app/)
 
 ---
+📷 Screenshots
+![Home Page](./public/Home.png)
+![Sports Page](./public/Sports.png)
+![Health Page](./public/Health.png)
+![Side bar](./public/Sidebar.png)
+ _ _ _
 
 ## 🔑 Getting Started
 
@@ -83,11 +89,6 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── requests.js
-📷 Screenshots
-![Home Page](./public/Home.png)
-![Sports](./public/Sports.png)
-![Health](./public/Health.png)
-![Side bar](./public/Sidebar.png)
 
 🌐 API Reference
 Using the Guardian Content API (Open Platform):
